@@ -1,2 +1,20 @@
-# DSA---zero-to-optimal
-Algorithmic problem solutions, complexity analysis, and revision notes.
+
+# [Problem Number]. [Problem Title]
+
+- **Link:** [LeetCode Problem](https://leetcode.com/problems/problem-slug/)
+- **Difficulty:** Easy / Medium / Hard
+- **Topic / Pattern:** e.g., Array, Sliding Window, Dynamic Programming, Two Pointers
+
+## 1. Intuition & Approach
+- **Brute Force:** (Briefly mention the naive idea and why it's slow)
+- **Optimal Approach:** (Explain the key observation or data structure used)
+
+## 2. Complexity Analysis
+- **Time Complexity:** $O(\dots)$ — (Why?)
+- **Space Complexity:** $O(\dots)$ — (Auxiliary space used)
+
+## 3. Edge Cases & Mistakes
+- [ ] Empty input / single element (`len == 1`)
+- [ ] All negative numbers / zeros / duplicates
+- [ ] Integer overflow or out-of-bounds index
+- **My Mistake:** (What went wrong on the first attempt?)

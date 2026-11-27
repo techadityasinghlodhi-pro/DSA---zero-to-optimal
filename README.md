@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0053-maximum-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0053-maximum-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->

@@ -48,3 +48,14 @@
 *Last updated: 2026-11-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

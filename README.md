@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0053-maximum-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

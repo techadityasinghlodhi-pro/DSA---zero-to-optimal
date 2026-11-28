@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-22-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-23-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-11--28--2026-green?style=for-the-badge)
 
@@ -16,17 +16,17 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **0** |
+| 🟢 Easy | **1** |
 | 🟡 Medium | **22** |
 | 🔴 Hard | **0** |
-| **Total** | **22** |
+| **Total** | **23** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
 | SQL | **18** |
-| Python | **4** |
+| Python | **5** |
 
 ## 📂 Repository Structure
 
@@ -48,18 +48,3 @@
 *Last updated: 2026-11-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0242-valid-anagram) |
-## Sorting
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0242-valid-anagram) |
-<!---LeetCode Topics End-->

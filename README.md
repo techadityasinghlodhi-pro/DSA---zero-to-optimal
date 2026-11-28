@@ -25,8 +25,8 @@
 
 | Language | Solutions |
 |:---:|:---:|
-| SQL | **9** |
-| Python | **3** |
+| SQL | **6** |
+| Python | **1** |
 
 ## 📂 Repository Structure
 

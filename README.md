@@ -48,3 +48,18 @@
 *Last updated: 2026-11-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->

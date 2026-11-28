@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-20-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-22-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-11--28--2026-green?style=for-the-badge)
 
@@ -17,15 +17,15 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **0** |
-| 🟡 Medium | **20** |
+| 🟡 Medium | **22** |
 | 🔴 Hard | **0** |
-| **Total** | **20** |
+| **Total** | **22** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| SQL | **16** |
+| SQL | **18** |
 | Python | **4** |
 
 ## 📂 Repository Structure
@@ -48,22 +48,3 @@
 *Last updated: 2026-11-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3947-maximum-number-of-items-from-sale-ii](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3947-maximum-number-of-items-from-sale-ii) |
-## Greedy
-|  |
-| ------- |
-| [3947-maximum-number-of-items-from-sale-ii](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3947-maximum-number-of-items-from-sale-ii) |
-## Sorting
-|  |
-| ------- |
-| [3947-maximum-number-of-items-from-sale-ii](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3947-maximum-number-of-items-from-sale-ii) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [3947-maximum-number-of-items-from-sale-ii](https://github.com/techadityasinghlodhi-pro/DSA---zero-to-optimal/tree/master/3947-maximum-number-of-items-from-sale-ii) |
-<!---LeetCode Topics End-->
